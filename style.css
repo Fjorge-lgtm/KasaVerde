@@ -16,9 +16,16 @@ header {
     
 header.logo img {
     height: 50px;
-
 }
 
+
+.card {
+
+    display: flex;
+    justify-content: space-between;
+
+
+}
       footer {
 
             width: 100%;
@@ -45,42 +52,7 @@ header.logo img {
             color: white;
             text-decoration: none;
         }
-       /*.banner {
-            width: 100%;
-            background: url('https://via.placeholder.com/1200x600') no-repeat center center;
-            background-size: cover;
-            color: white;
-            text-align: center;
-            padding: 100px 20px;
-        }
-        .banner h1 {
-            font-size: 50px;
-            margin: 0;
-        }
-        .banner p {
-            font-size: 20px;
-            margin: 20px 0;
-        }
-        .banner a {
-            display: inline-block;
-            padding: 10px 20px;
-            background-color: #28a745;
-            color: white;
-            text-decoration: none;
-            border-radius: 5px;
-        }
-
-        
-        .container {
-            width: 80%;
-            margin: 20px auto;
-            background-color: #fff;
-            padding: 20px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            border-radius: 10px;
-        }
-
-*/
+       
 
 
         .carousel-item img {
